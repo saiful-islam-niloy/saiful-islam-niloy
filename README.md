@@ -15,7 +15,7 @@
   social: {
     linkedin: 'https://www.linkedin.com/in/saifulislamniloy/',
     hackerrank: 'https://www.hackerrank.com/saifulislamniloy/',
-    gmail: 'saifulislam65@iut-dhaka.edu'
+    email: 'saifulislam65@iut-dhaka.edu'
   }
 }
 ```
