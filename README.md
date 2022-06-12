@@ -8,7 +8,7 @@
 ```
 {
   name: 'Saiful Islam (Niloy)',
-  title: 'Software Engineering Apprentice',
+  title: 'Aspiring Software Engineer',
   techInterests: ['Web', 'Distributed Computing'],
   hobbies: ['Cricket', 'Coding'],
   languages: ['Golang', 'C++', 'JavaScript'],
