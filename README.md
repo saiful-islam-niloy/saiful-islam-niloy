@@ -1,5 +1,5 @@
 <p align="center">
-  <img   src="https://raw.githubusercontent.com/saiful-islam-niloy/saiful-islam-niloy/main/banner-less-height.jpg">
+  <img   src="https://raw.githubusercontent.com/saiful-islam-niloy/saiful-islam-niloy/main/banner-aspiring-software-engineer.png">
 </p>
 
  ![counter](https://enysjckrtpbswql.m.pipedream.net)
