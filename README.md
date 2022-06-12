@@ -11,7 +11,7 @@
   title: 'Software Engineering Apprentice',
   techInterests: ['Web', 'Distributed Computing'],
   hobbies: ['Cricket', 'Coding'],
-  languages: ['Golang', 'C++ ', 'JavaScript'],
+  languages: ['Golang', 'C++', 'JavaScript'],
   os: 'Ubuntu'
   social: {
     linkedin: 'https://www.linkedin.com/in/saifulislamniloy/',
