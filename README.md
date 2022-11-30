@@ -11,7 +11,7 @@
   title: 'Aspiring Software Engineer',
   techInterests: ['Web', 'Distributed Computing'],
   hobbies: ['Cricket', 'Coding'],
-  languages: ['Golang', 'C++', 'JavaScript'],
+  languages: ['Java', 'JavaScript', 'C++'],
   os: 'Ubuntu'
   social: {
     linkedin: 'https://www.linkedin.com/in/saifulislamniloy/',
